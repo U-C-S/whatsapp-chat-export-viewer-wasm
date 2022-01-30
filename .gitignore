@@ -1,0 +1,8 @@
+node_modules
+/dist
+/target
+/pkg
+/wasm-pack.log
+node_modules
+/Cargo.lock
+/git-clone
